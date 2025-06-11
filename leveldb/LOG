@@ -1,0 +1,15 @@
+2025/06/11-18:36:13.464 10cc Recovering log #75
+2025/06/11-18:36:13.568 10cc Delete type=0 #75
+2025/06/11-18:36:13.568 10cc Delete type=3 #73
+2025/06/11-18:38:52.226 ea8 Level-0 table #79: started
+2025/06/11-18:38:52.350 ea8 Level-0 table #79: 1180064 bytes OK
+2025/06/11-18:38:52.358 ea8 Delete type=0 #77
+2025/06/11-18:38:52.366 ea8 Compacting 4@0 + 1@1 files
+2025/06/11-18:38:52.655 ea8 Generated table #80@0: 24 keys, 1180620 bytes
+2025/06/11-18:38:52.655 ea8 Compacted 4@0 + 1@1 files => 1180620 bytes
+2025/06/11-18:38:52.656 ea8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/06/11-18:38:52.660 ea8 Delete type=2 #68
+2025/06/11-18:38:52.660 ea8 Delete type=2 #70
+2025/06/11-18:38:52.660 ea8 Delete type=2 #72
+2025/06/11-18:38:52.661 ea8 Delete type=2 #74
+2025/06/11-18:38:52.662 ea8 Delete type=2 #79

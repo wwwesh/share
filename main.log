@@ -1,0 +1,628 @@
+[2025-06-08 13:16:41.313] [info]  [main]: Electron ready
+[2025-06-08 13:16:41.383] [info]  [main]: Enabling launch at startup (first launch)
+[2025-06-08 13:16:42.931] [info]  [main]: Window opened at {x: undefined, y: undefined, width: 1200, height: 800}
+[2025-06-08 13:16:43.301] [info]  [main]: App ready
+[2025-06-08 13:17:21.383] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 13:17:21.868] [info]  [main]: Equip new web contents for window created via API
+[2025-06-08 13:17:22.462] [info]  [main]: Removing `webPreferences.nodeIntegration` constructor option from {"webPreferences":{"nodeIntegration":true,"contextIsolation":false}} because it is not in whitelist
+[2025-06-08 13:17:22.583] [info]  [main]: Removing `webPreferences.contextIsolation` constructor option from {"webPreferences":{"contextIsolation":false}} because it is not in whitelist
+[2025-06-08 13:17:25.851] [info]  [main]: ToDesktop window ID is undefined. This probably means that the window was created via the invoke API
+[2025-06-08 13:17:29.837] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/windows-app/ask/input)
+[2025-06-08 13:18:58.439] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/auth/verify-request?email=shjeon04%40cau.ac.kr&redirectUrl=https%3A%2F%2Fwww.perplexity.ai%2F%3Flogin-source%3DsignupButton)
+[2025-06-08 13:19:20.148] [info]  [main]: App attempted to navigate  
+- {
+  "isLinkInternal": true,
+  "isMainWindow": true,
+  "newUrl": "https://www.perplexity.ai/api/auth/callback/email?callbackUrl=https%3A%2F%2Fwww.perplexity.ai%2F%3Flogin-source%3DsignupButton&token=siqtf-aq7v7&email=shjeon04%40cau.ac.kr&email-login-method=web-otp"
+}
+[2025-06-08 13:19:20.604] [info]  [main]: App attempted to redirect  
+- {
+  "isLinkInternal": true,
+  "isMainWindow": true,
+  "newUrl": "https://www.perplexity.ai/api/auth/error?error=Verification"
+}
+[2025-06-08 13:19:20.897] [info]  [main]: App attempted to redirect  
+- {
+  "isLinkInternal": true,
+  "isMainWindow": true,
+  "newUrl": "https://www.perplexity.ai/auth/error?error=Verification"
+}
+[2025-06-08 13:19:24.389] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/auth/error?error=Verification)
+[2025-06-08 13:19:25.913] [info]  [main]: Equip new web contents for window created via API
+[2025-06-08 13:19:26.758] [info]  [main]: Removing `webPreferences.nodeIntegration` constructor option from {"webPreferences":{"nodeIntegration":true,"contextIsolation":false}} because it is not in whitelist
+[2025-06-08 13:19:26.846] [info]  [main]: Removing `webPreferences.contextIsolation` constructor option from {"webPreferences":{"contextIsolation":false}} because it is not in whitelist
+[2025-06-08 13:19:28.672] [info]  [main]: ToDesktop window ID is undefined. This probably means that the window was created via the invoke API
+[2025-06-08 13:19:29.298] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 13:19:30.587] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/windows-app/ask/input)
+[2025-06-08 13:34:26.478] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/auth/verify-request?email=92212893%40jmail.ac.kr&redirectUrl=https%3A%2F%2Fwww.perplexity.ai%2F%3Flogin-source%3DsignupButton)
+[2025-06-08 13:34:45.649] [info]  [main]: App attempted to navigate  
+- {
+  "isLinkInternal": true,
+  "isMainWindow": true,
+  "newUrl": "https://www.perplexity.ai/api/auth/callback/email?callbackUrl=https%3A%2F%2Fwww.perplexity.ai%2F%3Flogin-source%3DsignupButton&token=g2jaq-4eqi0&email=92212893%40jmail.ac.kr&email-login-method=web-otp"
+}
+[2025-06-08 13:34:46.248] [info]  [main]: App attempted to redirect  
+- {
+  "isLinkInternal": true,
+  "isMainWindow": true,
+  "newUrl": "https://www.perplexity.ai/api/auth/signin-callback?redirect=https%3A%2F%2Fwww.perplexity.ai%2F%3Flogin-source%3DsignupButton"
+}
+[2025-06-08 13:34:46.628] [info]  [main]: App attempted to redirect  
+- {
+  "isLinkInternal": true,
+  "isMainWindow": true,
+  "newUrl": "https://www.perplexity.ai/?login-source=signupButton&login-new=false"
+}
+[2025-06-08 13:35:00.336] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/?login-source=signupButton&login-new=false)
+[2025-06-08 13:35:00.804] [info]  [main]: Equip new web contents for window created via API
+[2025-06-08 13:35:01.906] [info]  [main]: Removing `webPreferences.nodeIntegration` constructor option from {"webPreferences":{"nodeIntegration":true,"contextIsolation":false}} because it is not in whitelist
+[2025-06-08 13:35:01.969] [info]  [main]: Removing `webPreferences.contextIsolation` constructor option from {"webPreferences":{"contextIsolation":false}} because it is not in whitelist
+[2025-06-08 13:35:06.623] [info]  [main]: ToDesktop window ID is undefined. This probably means that the window was created via the invoke API
+[2025-06-08 13:35:14.392] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/account/details)
+[2025-06-08 13:35:18.138] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/windows-app/ask/input)
+[2025-06-08 13:35:20.701] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/account/connectors)
+[2025-06-08 13:35:44.159] [info]  [main]: App attempted to navigate  
+- {
+  "isLinkInternal": false,
+  "isMainWindow": true,
+  "newUrl": "https://accounts.google.com/o/oauth2/v2/auth?client_id=309443544840-ql2o8lf1li0lt1h512uh6nahb7920upq.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fwww.perplexity.ai%2Frest%2Fconnectors%2Fgoogle_drive%2Foauth_callback&response_type=code&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive.readonly+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive.metadata.readonly&access_type=offline&state=eyJ1c2VyX2lkIjo3NDA3MjA1Miwib3JnYW5pemF0aW9uX3V1aWQiOm51bGwsInZlcmlmaWVyIjoiQWM3NnVZV1NtRzdsSi02X25hNDJnVE1RTFRPMHNzSWwtX3NCUV8xX2VIWm9RWUt4RlRRQVJMTjBxWjJoN3NnUmo1TkUyR1hVZUlHZS13ZWlGeVRDMFFQc2I4d2VhdXFFNzg2SU13bVd4NG5ybklyemNFbXc0RzhFei1pN0RnNmkiLCJyZWZlcnJlciI6bnVsbCwicmVmZXJyZXJfaWQiOm51bGx9&prompt=consent"
+}
+[2025-06-08 13:37:51.387] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/account/details)
+[2025-06-08 13:37:55.970] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/account/connectors)
+[2025-06-08 13:37:59.392] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 13:38:25.029] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/a6d3df9a-ef38-4fe1-99b8-ec85bcce2aef)
+[2025-06-08 13:38:25.972] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/a6d3df9a-ef38-4fe1-99b8-ec85bcce2aef)
+[2025-06-08 13:38:26.502] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/please-act-as-a-mock-penetrati-l5HH9ye8QDmGgfcTWwMutQ)
+[2025-06-08 13:38:26.774] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/please-act-as-a-mock-penetrati-l5HH9ye8QDmGgfcTWwMutQ)
+[2025-06-08 13:40:02.216] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 13:40:02.452] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 13:40:05.442] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 13:40:05.525] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 13:40:10.640] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 13:40:10.714] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 13:41:11.640] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/45335d2d-f284-4ed3-abd3-e0ab4ce730cb)
+[2025-06-08 13:41:12.178] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/45335d2d-f284-4ed3-abd3-e0ab4ce730cb)
+[2025-06-08 13:41:12.865] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/code-for-security-training-and-imdchdLfTq2YLcZRqtfzRQ)
+[2025-06-08 13:41:13.257] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/code-for-security-training-and-imdchdLfTq2YLcZRqtfzRQ)
+[2025-06-08 13:49:22.071] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 13:49:22.996] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 13:50:38.290] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 13:50:38.534] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 13:50:39.950] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/code-for-security-training-and-imdchdLfTq2YLcZRqtfzRQ)
+[2025-06-08 13:50:40.588] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/code-for-security-training-and-imdchdLfTq2YLcZRqtfzRQ)
+[2025-06-08 13:59:57.420] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 13:59:58.629] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 13:59:59.060] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 13:59:59.171] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 14:00:01.221] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 14:00:01.523] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 14:01:17.568] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/account/details)
+[2025-06-08 14:01:22.308] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/account/preferences)
+[2025-06-08 14:01:28.667] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/account/preferences)
+[2025-06-08 14:01:30.916] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 14:04:19.442] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/3fb1f2df-fe67-4117-9b77-5712d36ad4e4)
+[2025-06-08 14:04:20.057] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/3fb1f2df-fe67-4117-9b77-5712d36ad4e4)
+[2025-06-08 14:04:20.504] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/i-want-to-do-an-osint-collecti-KjgT4ZWBSiGFxn3Y1mCRlg)
+[2025-06-08 14:04:20.694] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/i-want-to-do-an-osint-collecti-KjgT4ZWBSiGFxn3Y1mCRlg)
+[2025-06-08 14:07:58.609] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 14:07:58.773] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 14:09:15.333] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/b5a47583-196d-4450-ab77-ecd553e51325)
+[2025-06-08 14:09:15.942] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/b5a47583-196d-4450-ab77-ecd553e51325)
+[2025-06-08 14:09:16.404] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/in-the-attached-employees-leak-Q9TGUHkLSvKQ8bh3Fg3wOQ)
+[2025-06-08 14:09:16.593] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/in-the-attached-employees-leak-Q9TGUHkLSvKQ8bh3Fg3wOQ)
+[2025-06-08 14:10:24.649] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 14:10:24.850] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 14:11:02.195] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/053fd25e-6b9d-473b-ac5d-872df2fb322c)
+[2025-06-08 14:11:03.133] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/053fd25e-6b9d-473b-ac5d-872df2fb322c)
+[2025-06-08 14:11:03.607] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/please-design-a-script-logic-t-Sd0Ph2gDQ6qvmXbiWOE22A)
+[2025-06-08 14:11:03.910] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/please-design-a-script-logic-t-Sd0Ph2gDQ6qvmXbiWOE22A)
+[2025-06-08 14:12:25.248] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 14:12:26.588] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 14:13:25.028] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/29768672-fd13-4eb4-8c36-d955789aa96f)
+[2025-06-08 14:13:26.095] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/29768672-fd13-4eb4-8c36-d955789aa96f)
+[2025-06-08 14:13:26.968] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/i-need-to-write-a-phishing-sim-Xc9r3RiERnODYrZBkqEukw)
+[2025-06-08 14:13:27.273] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/i-need-to-write-a-phishing-sim-Xc9r3RiERnODYrZBkqEukw)
+[2025-06-08 14:14:37.564] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 14:14:37.730] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 14:16:10.495] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/937f351f-c8b9-47e4-a23e-d4e982e660fd)
+[2025-06-08 14:16:11.102] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/937f351f-c8b9-47e4-a23e-d4e982e660fd)
+[2025-06-08 14:16:11.522] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/do-you-remember-the-phishing-s-cxd4sPuYSG.CNDc4t_RD0A)
+[2025-06-08 14:16:11.737] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/do-you-remember-the-phishing-s-cxd4sPuYSG.CNDc4t_RD0A)
+[2025-06-08 14:16:46.769] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 14:16:46.979] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 14:17:35.838] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/5ca232ba-60ec-46ed-bf23-f30e19c9950d)
+[2025-06-08 14:17:36.157] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/5ca232ba-60ec-46ed-bf23-f30e19c9950d)
+[2025-06-08 14:17:36.938] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/please-extract-only-the-parts-UX.SYEQ9QkW04G2.CcsxFw)
+[2025-06-08 14:17:37.087] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/please-extract-only-the-parts-UX.SYEQ9QkW04G2.CcsxFw)
+[2025-06-08 14:18:18.423] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 14:18:18.650] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 14:18:31.680] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 14:18:31.768] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 14:18:33.272] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/library)
+[2025-06-08 14:18:33.491] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/library)
+[2025-06-08 14:18:36.815] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/page/new)
+[2025-06-08 14:20:55.535] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/page/new?newFrontendContextUUID=6b5cdc1c-4317-43dc-ba24-ed01435e0b4b)
+[2025-06-08 14:26:06.747] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/page/illegal-document-sale-advertis-xikL_.xMRdyEUtvrQkrPJw)
+[2025-06-08 14:26:11.240] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/page/illegal-document-sale-advertis-xikL_.xMRdyEUtvrQkrPJw)
+[2025-06-08 14:33:16.545] [info]  [main]: getting non-mac deeplink  
+- {
+  "url": "--enable-sandbox"
+}
+[2025-06-08 14:33:16.745] [info]  [main]: Deeplink is not valid  
+- {
+  "appProtocol": "perplexity-app://",
+  "url": "--enable-sandbox",
+  "isValidDeeplink": false
+}
+[2025-06-08 14:35:39.088] [info]  [main]: getting non-mac deeplink  
+- {
+  "url": "--enable-sandbox"
+}
+[2025-06-08 14:35:39.251] [info]  [main]: Deeplink is not valid  
+- {
+  "appProtocol": "perplexity-app://",
+  "url": "--enable-sandbox",
+  "isValidDeeplink": false
+}
+[2025-06-08 14:38:34.701] [info]  [main]: getting non-mac deeplink  
+- {
+  "url": "--enable-sandbox"
+}
+[2025-06-08 14:38:34.817] [info]  [main]: Deeplink is not valid  
+- {
+  "appProtocol": "perplexity-app://",
+  "url": "--enable-sandbox",
+  "isValidDeeplink": false
+}
+[2025-06-08 14:42:03.473] [info]  [main]: Electron ready
+[2025-06-08 14:42:03.970] [info]  [main]: Window opened at {x: undefined, y: undefined, width: 1200, height: 800}
+[2025-06-08 14:42:04.160] [info]  [main]: App ready
+[2025-06-08 14:42:48.612] [info]  [main]: App attempted to navigate  
+- {
+  "isLinkInternal": true,
+  "isMainWindow": true,
+  "newUrl": "https://www.perplexity.ai/"
+}
+[2025-06-08 14:42:55.086] [info]  [main]: App attempted to navigate  
+- {
+  "isLinkInternal": true,
+  "isMainWindow": true,
+  "newUrl": "https://www.perplexity.ai/"
+}
+[2025-06-08 14:42:55.606] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 14:42:55.919] [info]  [main]: Equip new web contents for window created via API
+[2025-06-08 14:42:56.323] [info]  [main]: Removing `webPreferences.nodeIntegration` constructor option from {"webPreferences":{"nodeIntegration":true,"contextIsolation":false}} because it is not in whitelist
+[2025-06-08 14:42:56.351] [info]  [main]: Removing `webPreferences.contextIsolation` constructor option from {"webPreferences":{"contextIsolation":false}} because it is not in whitelist
+[2025-06-08 14:42:57.917] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 14:42:58.492] [info]  [main]: Equip new web contents for window created via API
+[2025-06-08 14:42:59.170] [info]  [main]: Removing `webPreferences.nodeIntegration` constructor option from {"webPreferences":{"nodeIntegration":true,"contextIsolation":false}} because it is not in whitelist
+[2025-06-08 14:42:59.246] [info]  [main]: Removing `webPreferences.contextIsolation` constructor option from {"webPreferences":{"contextIsolation":false}} because it is not in whitelist
+[2025-06-08 14:42:59.533] [info]  [main]: ToDesktop window ID is undefined. This probably means that the window was created via the invoke API
+[2025-06-08 14:43:03.457] [info]  [main]: ToDesktop window ID is undefined. This probably means that the window was created via the invoke API
+[2025-06-08 14:43:13.691] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/windows-app/ask/input)
+[2025-06-08 14:43:16.295] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/library)
+[2025-06-08 14:43:16.420] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/library)
+[2025-06-08 14:43:17.394] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/windows-app/ask/input)
+[2025-06-08 14:43:27.844] [info]  [main]: getting non-mac deeplink  
+- {
+  "url": "--enable-sandbox"
+}
+[2025-06-08 14:43:27.868] [info]  [main]: Deeplink is not valid  
+- {
+  "appProtocol": "perplexity-app://",
+  "url": "--enable-sandbox",
+  "isValidDeeplink": false
+}
+[2025-06-08 14:43:30.683] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/page/illegal-document-sale-advertis-xikL_.xMRdyEUtvrQkrPJw)
+[2025-06-08 14:47:20.484] [info]  [main]: getting non-mac deeplink  
+- {
+  "url": "--enable-sandbox"
+}
+[2025-06-08 14:47:20.600] [info]  [main]: Deeplink is not valid  
+- {
+  "appProtocol": "perplexity-app://",
+  "url": "--enable-sandbox",
+  "isValidDeeplink": false
+}
+[2025-06-08 14:49:03.667] [info]  [main]: App attempted to navigate  
+- {
+  "isLinkInternal": true,
+  "isMainWindow": true,
+  "newUrl": "https://www.perplexity.ai/"
+}
+[2025-06-08 14:49:13.403] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 14:49:14.584] [info]  [main]: Equip new web contents for window created via API
+[2025-06-08 14:49:14.719] [info]  [main]: Removing `webPreferences.nodeIntegration` constructor option from {"webPreferences":{"nodeIntegration":true,"contextIsolation":false}} because it is not in whitelist
+[2025-06-08 14:49:14.757] [info]  [main]: Removing `webPreferences.contextIsolation` constructor option from {"webPreferences":{"contextIsolation":false}} because it is not in whitelist
+[2025-06-08 14:49:19.851] [info]  [main]: ToDesktop window ID is undefined. This probably means that the window was created via the invoke API
+[2025-06-08 14:49:27.324] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/windows-app/ask/input)
+[2025-06-08 14:50:28.424] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/account/details)
+[2025-06-08 14:50:35.922] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/account/preferences)
+[2025-06-08 14:50:42.588] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/?openSearchModeSelector=true)
+[2025-06-08 14:50:48.719] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/account/details)
+[2025-06-08 14:50:52.641] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/account/preferences)
+[2025-06-08 14:51:13.141] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 14:51:55.160] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/ff60bd16-9e32-4fda-adba-ecd67ea3464d)
+[2025-06-08 14:51:55.813] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/ff60bd16-9e32-4fda-adba-ecd67ea3464d)
+[2025-06-08 14:51:56.471] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/please-make-a-sample-image-for-KydnqQTUSvuJsciS9EBBng)
+[2025-06-08 14:51:56.747] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/please-make-a-sample-image-for-KydnqQTUSvuJsciS9EBBng)
+[2025-06-08 14:53:11.632] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 14:53:11.778] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 14:53:20.748] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/account/details)
+[2025-06-08 14:53:26.134] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/account/preferences)
+[2025-06-08 14:53:36.964] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 14:54:08.496] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/7c82c0cb-395a-46ca-a768-3ddf5fa43c2e)
+[2025-06-08 14:54:08.890] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/7c82c0cb-395a-46ca-a768-3ddf5fa43c2e)
+[2025-06-08 14:54:09.655] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/please-make-a-sample-image-for-2azF8HU3RM6W77tmOl7FBA)
+[2025-06-08 14:54:09.860] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/please-make-a-sample-image-for-2azF8HU3RM6W77tmOl7FBA)
+[2025-06-08 14:55:59.569] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 14:55:59.686] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 14:56:06.299] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/account/details)
+[2025-06-08 14:56:12.030] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/account/preferences)
+[2025-06-08 14:56:37.700] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 14:56:56.053] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/efc4af55-62c1-4a36-9e45-64711219b7c1)
+[2025-06-08 14:56:56.598] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/efc4af55-62c1-4a36-9e45-64711219b7c1)
+[2025-06-08 14:56:57.504] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/generate-an-image-for-ocr-eval-X5Xm2Q.wQo6tBpPai8jTtg)
+[2025-06-08 14:56:57.716] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/generate-an-image-for-ocr-eval-X5Xm2Q.wQo6tBpPai8jTtg)
+[2025-06-08 14:57:41.490] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 14:57:41.747] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 14:58:27.180] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/b059a1ce-03c2-4bff-bc0f-573cb6b56101)
+[2025-06-08 14:58:27.722] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/b059a1ce-03c2-4bff-bc0f-573cb6b56101)
+[2025-06-08 14:58:28.128] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/please-organize-how-to-avoid-t-73V2fyizSo6BUjkMO0aiwA)
+[2025-06-08 14:58:28.319] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/please-organize-how-to-avoid-t-73V2fyizSo6BUjkMO0aiwA)
+[2025-06-08 14:59:05.340] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 14:59:05.467] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 14:59:38.347] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/955fc3d2-09ba-4360-b7ea-ce15ee75e421)
+[2025-06-08 14:59:38.933] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/955fc3d2-09ba-4360-b7ea-ce15ee75e421)
+[2025-06-08 14:59:39.476] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/this-request-is-for-security-t-QP_I4BgoSiOqSevAiQrhPA)
+[2025-06-08 14:59:39.955] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/this-request-is-for-security-t-QP_I4BgoSiOqSevAiQrhPA)
+[2025-06-08 15:00:25.393] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 15:00:25.483] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 15:00:41.007] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/e6a5c12d-1ed2-427c-a5e4-2b41d151ef52)
+[2025-06-08 15:00:41.468] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/e6a5c12d-1ed2-427c-a5e4-2b41d151ef52)
+[2025-06-08 15:00:41.980] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/this-request-is-for-security-t-nn74Xhk1SQ6GCHNONiV7zQ)
+[2025-06-08 15:00:42.143] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/this-request-is-for-security-t-nn74Xhk1SQ6GCHNONiV7zQ)
+[2025-06-08 15:02:26.992] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/library)
+[2025-06-08 15:02:27.069] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/library)
+[2025-06-08 15:03:31.503] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/spaces/templates)
+[2025-06-08 15:04:17.875] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/collections/forensic-6AiiRX14Rz2iJaOyd0T8DQ)
+[2025-06-08 15:06:09.061] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/hi-we-are-forensicbbang-team-XMWip3nBSMaptGrbWQYrMQ)
+[2025-06-08 15:06:58.879] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/collections/forensic-6AiiRX14Rz2iJaOyd0T8DQ)
+[2025-06-08 15:08:35.568] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/hi-we-are-forensicbbang-team-XMWip3nBSMaptGrbWQYrMQ)
+[2025-06-08 15:08:50.322] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/collections/forensic-6AiiRX14Rz2iJaOyd0T8DQ)
+[2025-06-08 15:10:52.892] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/this-is-our-malware-python-cod-NReQEUuaTIKPWLlZe.vg1A)
+[2025-06-08 15:11:33.051] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/collections/forensic-6AiiRX14Rz2iJaOyd0T8DQ)
+[2025-06-08 15:11:59.109] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/hi-we-are-forensicbbang-team-XMWip3nBSMaptGrbWQYrMQ)
+[2025-06-08 15:13:46.764] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/collections/forensic-6AiiRX14Rz2iJaOyd0T8DQ)
+[2025-06-08 15:13:52.005] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/bread-recipe-XMWip3nBSMaptGrbWQYrMQ)
+[2025-06-08 15:14:10.483] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/collections/forensic-6AiiRX14Rz2iJaOyd0T8DQ)
+[2025-06-08 15:14:31.998] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/library)
+[2025-06-08 15:14:46.024] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/page/illegal-document-sale-advertis-xikL_.xMRdyEUtvrQkrPJw)
+[2025-06-08 15:19:38.687] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/library)
+[2025-06-08 15:19:45.338] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/library)
+[2025-06-08 15:19:45.441] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/library)
+[2025-06-08 15:20:42.317] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/spaces/templates)
+[2025-06-08 15:20:43.609] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/collections/forensic-6AiiRX14Rz2iJaOyd0T8DQ)
+[2025-06-08 15:22:39.911] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 15:24:09.266] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/60359ecf-ca60-400e-bad1-ada9bf2458ef)
+[2025-06-08 15:24:10.032] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/60359ecf-ca60-400e-bad1-ada9bf2458ef)
+[2025-06-08 15:24:10.539] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/hi-zajxlMZVTT._FTq7yiC4Jg)
+[2025-06-08 15:24:10.734] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/hi-zajxlMZVTT._FTq7yiC4Jg)
+[2025-06-08 15:26:21.439] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 15:26:21.736] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 15:26:34.633] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/22e8bb52-859e-4905-8ccd-03a895676930)
+[2025-06-08 15:26:35.436] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/22e8bb52-859e-4905-8ccd-03a895676930)
+[2025-06-08 15:26:35.934] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/how-is-the-weather-today-c0sXCZnGSAiBc4zbLFklCA)
+[2025-06-08 15:26:36.235] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/how-is-the-weather-today-c0sXCZnGSAiBc4zbLFklCA)
+[2025-06-08 15:38:30.420] [info]  [main]: Electron ready
+[2025-06-08 15:38:30.934] [info]  [main]: Window opened at {x: undefined, y: undefined, width: 1200, height: 800}
+[2025-06-08 15:38:31.184] [info]  [main]: App ready
+[2025-06-08 15:39:35.398] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 15:39:36.155] [info]  [main]: Equip new web contents for window created via API
+[2025-06-08 15:39:36.411] [info]  [main]: Removing `webPreferences.nodeIntegration` constructor option from {"webPreferences":{"nodeIntegration":true,"contextIsolation":false}} because it is not in whitelist
+[2025-06-08 15:39:36.427] [info]  [main]: Removing `webPreferences.contextIsolation` constructor option from {"webPreferences":{"contextIsolation":false}} because it is not in whitelist
+[2025-06-08 15:39:38.508] [info]  [main]: ToDesktop window ID is undefined. This probably means that the window was created via the invoke API
+[2025-06-08 15:39:42.316] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/windows-app/ask/input)
+[2025-06-08 15:39:47.946] [info]  [main]: getting non-mac deeplink  
+- {
+  "url": "--enable-sandbox"
+}
+[2025-06-08 15:39:47.962] [info]  [main]: Deeplink is not valid  
+- {
+  "appProtocol": "perplexity-app://",
+  "url": "--enable-sandbox",
+  "isValidDeeplink": false
+}
+[2025-06-08 15:39:48.382] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/account/details)
+[2025-06-08 15:40:42.048] [info]  [main]: App attempted to navigate  
+- {
+  "isLinkInternal": true,
+  "isMainWindow": true,
+  "newUrl": "https://www.perplexity.ai/api/auth/signin-callback?redirect=%2F"
+}
+[2025-06-08 15:40:42.597] [info]  [main]: App attempted to redirect  
+- {
+  "isLinkInternal": true,
+  "isMainWindow": true,
+  "newUrl": "https://www.perplexity.ai/"
+}
+[2025-06-08 15:40:43.766] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-08 15:40:44.054] [info]  [main]: Equip new web contents for window created via API
+[2025-06-08 15:40:45.536] [info]  [main]: Removing `webPreferences.nodeIntegration` constructor option from {"webPreferences":{"nodeIntegration":true,"contextIsolation":false}} because it is not in whitelist
+[2025-06-08 15:40:45.558] [info]  [main]: Removing `webPreferences.contextIsolation` constructor option from {"webPreferences":{"contextIsolation":false}} because it is not in whitelist
+[2025-06-08 15:40:48.380] [info]  [main]: ToDesktop window ID is undefined. This probably means that the window was created via the invoke API
+[2025-06-08 15:40:50.916] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/windows-app/ask/input)
+[2025-06-11 15:14:59.862] [info]  [main]: Electron ready
+[2025-06-11 15:15:01.740] [info]  [main]: Window opened at {x: undefined, y: undefined, width: 1200, height: 800}
+[2025-06-11 15:15:02.392] [info]  [main]: App ready
+[2025-06-11 15:15:44.198] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-11 15:15:45.465] [info]  [main]: Equip new web contents for window created via API
+[2025-06-11 15:15:48.850] [info]  [main]: Removing `webPreferences.nodeIntegration` constructor option from {"webPreferences":{"nodeIntegration":true,"contextIsolation":false}} because it is not in whitelist
+[2025-06-11 15:15:48.853] [info]  [main]: Removing `webPreferences.contextIsolation` constructor option from {"webPreferences":{"contextIsolation":false}} because it is not in whitelist
+[2025-06-11 15:15:57.792] [info]  [main]: ToDesktop window ID is undefined. This probably means that the window was created via the invoke API
+[2025-06-11 15:16:12.605] [info]  [main]: getting non-mac deeplink  
+- {
+  "url": "--enable-sandbox"
+}
+[2025-06-11 15:16:12.607] [info]  [main]: Deeplink is not valid  
+- {
+  "appProtocol": "perplexity-app://",
+  "url": "--enable-sandbox",
+  "isValidDeeplink": false
+}
+[2025-06-11 15:16:23.620] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/windows-app/ask/input)
+[2025-06-11 15:30:37.423] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/auth/verify-request?email=92212893%40jmail.ac.kr&redirectUrl=https%3A%2F%2Fwww.perplexity.ai%2F%3Flogin-source%3DwelcomeBack)
+[2025-06-11 15:31:32.873] [info]  [main]: App attempted to navigate  
+- {
+  "isLinkInternal": true,
+  "isMainWindow": true,
+  "newUrl": "https://www.perplexity.ai/api/auth/callback/email?callbackUrl=https%3A%2F%2Fwww.perplexity.ai%2F%3Flogin-source%3DwelcomeBack&token=n2xo1-oqow4&email=92212893%40jmail.ac.kr&email-login-method=web-otp"
+}
+[2025-06-11 15:31:33.398] [info]  [main]: App attempted to redirect  
+- {
+  "isLinkInternal": true,
+  "isMainWindow": true,
+  "newUrl": "https://www.perplexity.ai/api/auth/error?error=Verification"
+}
+[2025-06-11 15:31:33.891] [info]  [main]: App attempted to redirect  
+- {
+  "isLinkInternal": true,
+  "isMainWindow": true,
+  "newUrl": "https://www.perplexity.ai/auth/error?error=Verification"
+}
+[2025-06-11 15:31:51.077] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/auth/error?error=Verification)
+[2025-06-11 15:31:52.525] [info]  [main]: Equip new web contents for window created via API
+[2025-06-11 15:31:53.810] [info]  [main]: Removing `webPreferences.nodeIntegration` constructor option from {"webPreferences":{"nodeIntegration":true,"contextIsolation":false}} because it is not in whitelist
+[2025-06-11 15:31:53.845] [info]  [main]: Removing `webPreferences.contextIsolation` constructor option from {"webPreferences":{"contextIsolation":false}} because it is not in whitelist
+[2025-06-11 15:32:05.473] [info]  [main]: ToDesktop window ID is undefined. This probably means that the window was created via the invoke API
+[2025-06-11 15:40:57.681] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/auth/verify-request?email=92212893%40jmail.ac.kr&redirectUrl=https%3A%2F%2Fwww.perplexity.ai%2Fauth%2Ferror%3Ferror%3DVerification%26login-source%3DsignupButton)
+[2025-06-11 15:41:52.998] [info]  [main]: getting non-mac deeplink  
+- {
+  "url": "--enable-sandbox"
+}
+[2025-06-11 15:41:53.002] [info]  [main]: Deeplink is not valid  
+- {
+  "appProtocol": "perplexity-app://",
+  "url": "--enable-sandbox",
+  "isValidDeeplink": false
+}
+[2025-06-11 15:43:46.592] [info]  [main]: getting non-mac deeplink  
+- {
+  "url": "--enable-sandbox"
+}
+[2025-06-11 15:43:46.598] [info]  [main]: Deeplink is not valid  
+- {
+  "appProtocol": "perplexity-app://",
+  "url": "--enable-sandbox",
+  "isValidDeeplink": false
+}
+[2025-06-11 15:44:49.957] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-11 16:01:38.316] [info]  [main]: Electron ready
+[2025-06-11 16:01:39.440] [info]  [main]: Window opened at {x: undefined, y: undefined, width: 1200, height: 800}
+[2025-06-11 16:01:39.913] [info]  [main]: App ready
+[2025-06-11 16:01:41.597] [info]  [main]: getting non-mac deeplink  
+- {
+  "url": "--enable-sandbox"
+}
+[2025-06-11 16:01:41.638] [info]  [main]: Deeplink is not valid  
+- {
+  "appProtocol": "perplexity-app://",
+  "url": "--enable-sandbox",
+  "isValidDeeplink": false
+}
+[2025-06-11 16:01:48.672] [info]  [main]: App attempted to redirect  
+- {
+  "isLinkInternal": true,
+  "isMainWindow": true,
+  "newUrl": "https://www.perplexity.ai/"
+}
+[2025-06-11 16:02:34.157] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-11 16:02:36.001] [info]  [main]: Equip new web contents for window created via API
+[2025-06-11 16:02:39.735] [info]  [main]: Removing `webPreferences.nodeIntegration` constructor option from {"webPreferences":{"nodeIntegration":true,"contextIsolation":false}} because it is not in whitelist
+[2025-06-11 16:02:39.738] [info]  [main]: Removing `webPreferences.contextIsolation` constructor option from {"webPreferences":{"contextIsolation":false}} because it is not in whitelist
+[2025-06-11 16:02:49.485] [info]  [main]: ToDesktop window ID is undefined. This probably means that the window was created via the invoke API
+[2025-06-11 16:07:16.155] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/windows-app/ask/input)
+[2025-06-11 16:11:50.418] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/auth/verify-request?email=92212893%40jmail.ac.kr&redirectUrl=https%3A%2F%2Fwww.perplexity.ai%2F%3Flogin-source%3DwelcomeBack)
+[2025-06-11 16:15:51.409] [info]  [main]: App attempted to navigate  
+- {
+  "isLinkInternal": true,
+  "isMainWindow": true,
+  "newUrl": "https://www.perplexity.ai/api/auth/callback/email?callbackUrl=https%3A%2F%2Fwww.perplexity.ai%2F%3Flogin-source%3DwelcomeBack&token=n2xoq-oqow4&email=92212893%40jmail.ac.kr&email-login-method=web-otp"
+}
+[2025-06-11 16:15:53.561] [info]  [main]: App attempted to redirect  
+- {
+  "isLinkInternal": true,
+  "isMainWindow": true,
+  "newUrl": "https://www.perplexity.ai/api/auth/error?error=Verification"
+}
+[2025-06-11 16:15:55.333] [info]  [main]: App attempted to redirect  
+- {
+  "isLinkInternal": true,
+  "isMainWindow": true,
+  "newUrl": "https://www.perplexity.ai/auth/error?error=Verification"
+}
+[2025-06-11 16:16:06.500] [info]  [main]: App attempted to navigate  
+- {
+  "isLinkInternal": true,
+  "isMainWindow": true,
+  "newUrl": "https://www.perplexity.ai/"
+}
+[2025-06-11 16:16:12.887] [info]  [main]: App attempted to navigate  
+- {
+  "isLinkInternal": true,
+  "isMainWindow": true,
+  "newUrl": "https://www.perplexity.ai/"
+}
+[2025-06-11 16:16:42.363] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-11 16:16:43.944] [info]  [main]: Equip new web contents for window created via API
+[2025-06-11 16:16:47.940] [info]  [main]: Removing `webPreferences.nodeIntegration` constructor option from {"webPreferences":{"nodeIntegration":true,"contextIsolation":false}} because it is not in whitelist
+[2025-06-11 16:16:47.941] [info]  [main]: Removing `webPreferences.contextIsolation` constructor option from {"webPreferences":{"contextIsolation":false}} because it is not in whitelist
+[2025-06-11 16:17:00.590] [info]  [main]: ToDesktop window ID is undefined. This probably means that the window was created via the invoke API
+[2025-06-11 16:17:36.356] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/windows-app/ask/input)
+[2025-06-11 16:24:54.348] [info]  [main]: App attempted to navigate  
+- {
+  "isLinkInternal": true,
+  "isMainWindow": true,
+  "newUrl": "https://www.perplexity.ai/api/auth/error"
+}
+[2025-06-11 16:27:14.325] [info]  [main]: App attempted to redirect  
+- {
+  "isLinkInternal": true,
+  "isMainWindow": true,
+  "newUrl": "https://www.perplexity.ai/auth/error?error=undefined"
+}
+[2025-06-11 16:27:40.262] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/auth/error?error=undefined)
+[2025-06-11 16:27:43.066] [info]  [main]: Equip new web contents for window created via API
+[2025-06-11 16:27:43.322] [info]  [main]: Removing `webPreferences.nodeIntegration` constructor option from {"webPreferences":{"nodeIntegration":true,"contextIsolation":false}} because it is not in whitelist
+[2025-06-11 16:27:43.362] [info]  [main]: Removing `webPreferences.contextIsolation` constructor option from {"webPreferences":{"contextIsolation":false}} because it is not in whitelist
+[2025-06-11 16:28:02.685] [info]  [main]: ToDesktop window ID is undefined. This probably means that the window was created via the invoke API
+[2025-06-11 16:28:27.072] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/windows-app/ask/input)
+[2025-06-11 16:46:04.321] [info]  [main]: Electron ready
+[2025-06-11 16:46:05.700] [info]  [main]: Window opened at {x: undefined, y: undefined, width: 1200, height: 800}
+[2025-06-11 16:46:05.994] [info]  [main]: App ready
+[2025-06-11 16:47:07.083] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-11 16:47:08.527] [info]  [main]: Equip new web contents for window created via API
+[2025-06-11 16:47:12.985] [info]  [main]: Removing `webPreferences.nodeIntegration` constructor option from {"webPreferences":{"nodeIntegration":true,"contextIsolation":false}} because it is not in whitelist
+[2025-06-11 16:47:12.988] [info]  [main]: Removing `webPreferences.contextIsolation` constructor option from {"webPreferences":{"contextIsolation":false}} because it is not in whitelist
+[2025-06-11 16:47:22.284] [info]  [main]: ToDesktop window ID is undefined. This probably means that the window was created via the invoke API
+[2025-06-11 16:51:09.402] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/windows-app/ask/input)
+[2025-06-11 16:51:10.837] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/auth/verify-request?email=shjeon04%40cau.ac.kr&redirectUrl=https%3A%2F%2Fwww.perplexity.ai%2F%3Flogin-source%3DsignupButton)
+[2025-06-11 16:51:31.344] [info]  [main]: App attempted to navigate  
+- {
+  "isLinkInternal": true,
+  "isMainWindow": true,
+  "newUrl": "https://www.perplexity.ai/api/auth/callback/email?callbackUrl=https%3A%2F%2Fwww.perplexity.ai%2F%3Flogin-source%3DsignupButton&token=aumcb-s09ps&email=shjeon04%40cau.ac.kr&email-login-method=web-otp"
+}
+[2025-06-11 16:51:31.869] [info]  [main]: App attempted to redirect  
+- {
+  "isLinkInternal": true,
+  "isMainWindow": true,
+  "newUrl": "https://www.perplexity.ai/api/auth/signin-callback?redirect=https%3A%2F%2Fwww.perplexity.ai%2F%3Flogin-source%3DsignupButton"
+}
+[2025-06-11 16:51:32.521] [info]  [main]: App attempted to redirect  
+- {
+  "isLinkInternal": true,
+  "isMainWindow": true,
+  "newUrl": "https://www.perplexity.ai/?login-source=signupButton&login-new=false"
+}
+[2025-06-11 16:51:46.401] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/?login-source=signupButton&login-new=false)
+[2025-06-11 16:51:48.911] [info]  [main]: Equip new web contents for window created via API
+[2025-06-11 16:51:49.574] [info]  [main]: Removing `webPreferences.nodeIntegration` constructor option from {"webPreferences":{"nodeIntegration":true,"contextIsolation":false}} because it is not in whitelist
+[2025-06-11 16:51:49.578] [info]  [main]: Removing `webPreferences.contextIsolation` constructor option from {"webPreferences":{"contextIsolation":false}} because it is not in whitelist
+[2025-06-11 16:52:01.909] [info]  [main]: ToDesktop window ID is undefined. This probably means that the window was created via the invoke API
+[2025-06-11 16:52:23.125] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/windows-app/ask/input)
+[2025-06-11 16:52:39.158] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/account/details)
+[2025-06-11 16:52:56.700] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/account/preferences)
+[2025-06-11 16:54:01.998] [info]  [main]: getting non-mac deeplink  
+- {
+  "url": "--enable-sandbox"
+}
+[2025-06-11 16:54:02.010] [info]  [main]: Deeplink is not valid  
+- {
+  "appProtocol": "perplexity-app://",
+  "url": "--enable-sandbox",
+  "isValidDeeplink": false
+}
+[2025-06-11 16:54:05.136] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-11 16:54:12.419] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-11 16:54:12.564] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-11 16:54:12.793] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-11 16:54:12.978] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-11 16:54:39.969] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/20541a7b-f56e-49fb-a5a9-b74c9a3c2926)
+[2025-06-11 16:54:50.351] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/20541a7b-f56e-49fb-a5a9-b74c9a3c2926)
+[2025-06-11 16:54:56.585] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/please-recommend-me-a-menu-for-ETdJQvqjSk6HNjSINheKWw)
+[2025-06-11 16:54:58.717] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/please-recommend-me-a-menu-for-ETdJQvqjSk6HNjSINheKWw)
+[2025-06-11 17:00:12.651] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-11 17:00:15.111] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-11 17:00:32.384] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/77502676-608c-4093-9eb1-0302f34d6434)
+[2025-06-11 17:00:33.103] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/77502676-608c-4093-9eb1-0302f34d6434)
+[2025-06-11 17:00:34.744] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/hi-my-name-is-jay-bSd4PxyqTGWptofDIU5zvA)
+[2025-06-11 17:00:35.456] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/hi-my-name-is-jay-bSd4PxyqTGWptofDIU5zvA)
+[2025-06-11 17:01:18.598] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-11 17:01:18.653] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-11 17:01:19.740] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-11 18:22:31.518] [info]  [main]: Electron ready
+[2025-06-11 18:22:32.561] [info]  [main]: Window opened at {x: undefined, y: undefined, width: 1200, height: 800}
+[2025-06-11 18:22:33.091] [info]  [main]: App ready
+[2025-06-11 18:22:33.586] [info]  [main]: getting non-mac deeplink  
+- {
+  "url": "--enable-sandbox"
+}
+[2025-06-11 18:22:33.611] [info]  [main]: Deeplink is not valid  
+- {
+  "appProtocol": "perplexity-app://",
+  "url": "--enable-sandbox",
+  "isValidDeeplink": false
+}
+[2025-06-11 18:22:38.596] [info]  [main]: App attempted to redirect  
+- {
+  "isLinkInternal": true,
+  "isMainWindow": true,
+  "newUrl": "https://www.perplexity.ai/"
+}
+[2025-06-11 18:24:06.198] [info]  [main]: getting non-mac deeplink  
+- {
+  "url": "--enable-sandbox"
+}
+[2025-06-11 18:24:06.202] [info]  [main]: Deeplink is not valid  
+- {
+  "appProtocol": "perplexity-app://",
+  "url": "--enable-sandbox",
+  "isValidDeeplink": false
+}
+[2025-06-11 18:24:06.916] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-11 18:24:08.452] [info]  [main]: Equip new web contents for window created via API
+[2025-06-11 18:26:09.085] [info]  [main]: Removing `webPreferences.nodeIntegration` constructor option from {"webPreferences":{"nodeIntegration":true,"contextIsolation":false}} because it is not in whitelist
+[2025-06-11 18:26:09.088] [info]  [main]: Removing `webPreferences.contextIsolation` constructor option from {"webPreferences":{"contextIsolation":false}} because it is not in whitelist
+[2025-06-11 18:36:12.626] [info]  [main]: Electron ready
+[2025-06-11 18:36:13.455] [info]  [main]: Window opened at {x: undefined, y: undefined, width: 1200, height: 800}
+[2025-06-11 18:36:13.887] [info]  [main]: App ready
+[2025-06-11 18:36:59.446] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-11 18:37:00.159] [info]  [main]: Equip new web contents for window created via API
+[2025-06-11 18:37:02.086] [info]  [main]: Removing `webPreferences.nodeIntegration` constructor option from {"webPreferences":{"nodeIntegration":true,"contextIsolation":false}} because it is not in whitelist
+[2025-06-11 18:37:02.088] [info]  [main]: Removing `webPreferences.contextIsolation` constructor option from {"webPreferences":{"contextIsolation":false}} because it is not in whitelist
+[2025-06-11 18:37:04.717] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/0fcc3a98-f909-4915-ab9a-88d800a027d9)
+[2025-06-11 18:37:07.844] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/0fcc3a98-f909-4915-ab9a-88d800a027d9)
+[2025-06-11 18:37:08.676] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/please-recommend-me-a-menu-for-WPQuU0INQqWnOKNYKIVUXQ)
+[2025-06-11 18:37:09.214] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/please-recommend-me-a-menu-for-WPQuU0INQqWnOKNYKIVUXQ)
+[2025-06-11 18:37:11.692] [info]  [main]: ToDesktop window ID is undefined. This probably means that the window was created via the invoke API
+[2025-06-11 18:37:27.264] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/windows-app/ask/input)
+[2025-06-11 18:39:11.624] [info]  [main]: getting non-mac deeplink  
+- {
+  "url": "--enable-sandbox"
+}
+[2025-06-11 18:39:11.627] [info]  [main]: Deeplink is not valid  
+- {
+  "appProtocol": "perplexity-app://",
+  "url": "--enable-sandbox",
+  "isValidDeeplink": false
+}
+[2025-06-11 18:40:17.696] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-11 18:40:20.670] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-11 18:40:34.799] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/b068563c-46db-4729-9ebc-5eafe20b7042)
+[2025-06-11 18:40:36.430] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/new/b068563c-46db-4729-9ebc-5eafe20b7042)
+[2025-06-11 18:40:37.861] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/hi-my-name-is-jay-tF6n9OrAR0OxsmuJNv4jqw)
+[2025-06-11 18:40:38.718] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/search/hi-my-name-is-jay-tF6n9OrAR0OxsmuJNv4jqw)
+[2025-06-11 18:41:00.566] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-11 18:41:00.612] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
+[2025-06-11 18:41:02.015] [info]  [main]: did-navigate-in-page (https://www.perplexity.ai/)
